@@ -1,10 +1,10 @@
 import React from 'react';
-import { Box } from 'admin-bro';
+import { Box, H1 } from 'admin-bro';
 
 export default function Dashboard() {
   return (
     <Box>
-      <h1>Dashboard</h1>
+      <H1>Dashboard</H1>
     </Box>    
   );
 };

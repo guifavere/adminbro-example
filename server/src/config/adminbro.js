@@ -6,7 +6,7 @@ import User from '../app/schemas/User';
 
 export default {
   branding: { companyName: 'Admin example' },
-  dashboard: { component: require('../../../client/src/components/dashboard') },
+  dashboard: { component: AdminBro.bundle('../../../client/components/Dashboard') },
   resources: [
     { resource: User },
     {
@@ -19,5 +19,5 @@ export default {
       },
     },
   ],
-  rootPath: '/admin2',
+  rootPath: '/admin',
 };
