@@ -127,7 +127,7 @@
     "levenary": "^1.1.1",
     "lines-and-columns": "^1.1.6",
     "locate-path": "^3.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "log-symbols": "^3.0.0",
     "loose-envify": "^1.4.0",
     "magic-string": "^0.25.7",
