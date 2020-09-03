@@ -19,7 +19,7 @@
     "babel-plugin-macros": "^2.8.0",
     "babel-plugin-styled-components": "^1.10.7",
     "babel-plugin-syntax-jsx": "^6.18.0",
-    "bl": "^2.2.0",
+    "bl": "^2.2.1",
     "bluebird": "^3.5.1",
     "body-parser": "^1.19.0",
     "browserslist": "^4.12.2",
