@@ -150,7 +150,7 @@
     "mongoose": "^5.9.20",
     "mongoose-legacy-pluralize": "^1.0.2",
     "mpath": "^0.7.0",
-    "mquery": "^3.2.2",
+    "mquery": "^3.2.3",
     "ms": "^2.0.0",
     "mute-stream": "^0.0.8",
     "negotiator": "^0.6.2",
