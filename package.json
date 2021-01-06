@@ -13,7 +13,7 @@
     "ansi-regex": "^5.0.0",
     "ansi-styles": "^3.2.1",
     "array-flatten": "^1.1.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-plugin-dynamic-import-node": "^2.3.3",
     "babel-plugin-emotion": "^9.2.11",
     "babel-plugin-macros": "^2.8.0",
